@@ -1,10 +1,7 @@
 # Арламов Роман
-
 **Backend Developer (Go)**
-
-Удалённо / гибрид 
-roman.arlamov2002@yandex.ru · Telegram: https://t.me/RomanArlamov
-GitHub: **github.com/Roman-cpp**
+https://t.me/RomanArlamov
+roman.arlamov2002@yandex.ru
 
 ---
 
